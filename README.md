@@ -1,4 +1,4 @@
-# AI Educational Resources
+# GHRI Project Repository
 Funded by an award from the NJIT Grace Hopper Research Institute
 to Professors Dr. Petras Swissler and Dr. Sangwoo Park
 
