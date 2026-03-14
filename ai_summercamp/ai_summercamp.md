@@ -1,5 +1,7 @@
 # AI Summer Camp
 
+---
+
 This folder contains the material used for the summer camp run at NJIT in the summer of 2025
 There are four files in this folder
 
