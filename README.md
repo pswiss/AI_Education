@@ -23,6 +23,7 @@ The folder ```concept_visualizations``` contains various interactive visualizati
 - https://mariaangelps.github.io/insight-companion/
 - https://mariaangelps.github.io/k_means/
 - https://mariaangelps.github.io/gd3d-web/
+- https://github.com/nidhisakpal/ai_visualizations
 
 ### AI Summer Camp
 In the summer of 2025 Drs. Swissler and Park hosted a summer camp at the New Jersey Institute of Technology. The folder ```ai_summercamp``` contains the lecture slides, project materials, as well as an instructor guide for the summer camp. The hope is that this can serve as a turnkey solution to anyone wishing to run a similar summer camp at their own school.
